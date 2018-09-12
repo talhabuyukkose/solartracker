@@ -1,0 +1,1 @@
+C:\Users\talha\Desktop\UWP\SolarTracker\SolarTracker\SolarTracker.csproj;x86
